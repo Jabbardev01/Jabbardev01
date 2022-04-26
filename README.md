@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jabbardev01
 - 👀 I’m interested in collaboration and software development jobs
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning Azure cloud functions and i dabble with React amd Python
 - 💞️ I’m looking to collaborate on side projects
 - 📫 How to reach me on discord @obatech#7938
 
